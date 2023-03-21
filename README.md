@@ -9,3 +9,5 @@ The code for the slave esp32 is in "esp32_remote_controller_slave" and the code 
 This project works by receiving power from 5V micro-usb then once both esp32's are powered with the master being last the white LEDs indicate that both esp32's are connected with Bluetooth and once you click the push button connected to the master esp32 the green LED on the slave esp32 lights up even though they are not physically connected with wires.
 
 Here is a demonstration video!
+
+https://www.linkedin.com/posts/mftootoonchi_check-out-this-esp32-remote-controller-demonstration-activity-7044059732600397825-Qni0?utm_source=share&utm_medium=member_desktop
